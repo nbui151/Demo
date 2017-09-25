@@ -1,2 +1,2 @@
-# Link to demo slides: 
-https://docs.google.com/presentation/d/13r0XXknlmS786CnTmqKFX0oiGcu5TkodTjQmkQJ_Fgc/pub?start=false&loop=false&delayms=3000 
+# Link to slides: 
+https://drive.google.com/file/d/0B9NcaWwbzdH_cU1DaERiaUVlYm8/view?usp=sharing
